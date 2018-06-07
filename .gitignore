@@ -1,0 +1,10 @@
+
+# Folder
+.vscode/
+bin/
+obj/
+results/
+
+
+ejer1.py
+script.txt
