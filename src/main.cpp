@@ -1,6 +1,7 @@
 #include <iostream>
 #include <ctime>
 #include <chrono>
+#include <fstream>
 #include "string"
 
 #include "GeneticAlgorithm.hpp"
